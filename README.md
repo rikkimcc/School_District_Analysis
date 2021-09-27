@@ -16,3 +16,6 @@
 - Scores by school spending: the $630-644 bin saw a decrease in the passing percentages since Thomas High School was in that range.
 - Scores by school size: The Medium bin saw a decrease in the passing percent since Thomas High School fell in that category.
 - Scores by school type: The Charter schools saw a decrease in the passing percentages.
+
+## Summary:
+- To conclude, replacing the reading and math scores for Thomas High School only caused minor metric changes. The percent of students who passed math and reading dropped slightly (-1%) and the overall passing percentage dropped -1%.
